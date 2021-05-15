@@ -23,4 +23,4 @@ while I:
 				print pad[j][i]
 				time.sleep(0.2)
 		io.output(col[i],1)
-0000
+00
